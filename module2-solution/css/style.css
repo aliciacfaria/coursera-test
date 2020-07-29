@@ -5,6 +5,7 @@
 body {
 	margin: 0;
 	padding: 0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 
@@ -21,7 +22,7 @@ h2{
 
 div.section {
 	background-color: #e9e0d6;
-	margin:5px;
+	margin:10px;
 	border: 1px solid black;
 	position: relative;
 
@@ -45,7 +46,7 @@ div.section {
 }
 
 #t3 {
-	background-color: #dd5f32
+	background-color: #dd5f32;
 	color: #ffffff
 }
 
